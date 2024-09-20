@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oxsto.github.io/Hcn/sitemap.Hcn.gz
